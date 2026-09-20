@@ -18,8 +18,8 @@ O projeto é dividido em três páginas:
 
 ## 🛠️ Tecnologias utilizadas
 
-- HTML5
-- CSS3
+- HTML5 - CSS3 INLINE
+  
 
 ## 🎯 Objetivo
 
